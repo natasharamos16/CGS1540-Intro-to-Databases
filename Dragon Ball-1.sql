@@ -37,3 +37,5 @@ values
 
 drop table dragon_ball;
 drop database dragon_ball;
+
+#Have Fun
